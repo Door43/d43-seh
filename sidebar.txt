@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[seh:home|Door43 (seh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-seh|d43-seh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-seh/archive/master.zip|d43-seh.zip]]
+
+**Recent Changes**
+{{changes>ns = seh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/seh|Ethnologue data]]
+
